@@ -22,16 +22,9 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisshektrivedi&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisshektrivedi&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Connect with me  
 - 📧 Email: **archittrivedi717@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com) *(add your profile link)*  
+- 💼 [LinkedIn](https://www.linkedin.com) *(https://www.linkedin.com/in/abhishek-trivedi-024431258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)*  
 - 🌍 Portfolio/Website *(if you have one)*  
 
 ---
